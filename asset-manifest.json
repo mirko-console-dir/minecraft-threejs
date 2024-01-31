@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/minecraft-react/static/css/main.03d385f0.chunk.css",
+    "main.js": "/minecraft-react/static/js/main.5792caa3.chunk.js",
+    "main.js.map": "/minecraft-react/static/js/main.5792caa3.chunk.js.map",
+    "runtime-main.js": "/minecraft-react/static/js/runtime-main.c2a1c069.js",
+    "runtime-main.js.map": "/minecraft-react/static/js/runtime-main.c2a1c069.js.map",
+    "static/js/2.c1f4037c.chunk.js": "/minecraft-react/static/js/2.c1f4037c.chunk.js",
+    "static/js/2.c1f4037c.chunk.js.map": "/minecraft-react/static/js/2.c1f4037c.chunk.js.map",
+    "index.html": "/minecraft-react/index.html",
+    "static/css/main.03d385f0.chunk.css.map": "/minecraft-react/static/css/main.03d385f0.chunk.css.map",
+    "static/js/2.c1f4037c.chunk.js.LICENSE.txt": "/minecraft-react/static/js/2.c1f4037c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2a1c069.js",
+    "static/js/2.c1f4037c.chunk.js",
+    "static/css/main.03d385f0.chunk.css",
+    "static/js/main.5792caa3.chunk.js"
+  ]
+}
