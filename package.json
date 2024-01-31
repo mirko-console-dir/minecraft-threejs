@@ -1,18 +1,18 @@
 {
-  "homepage": "https://mirko-console-dir.github.io/minecraft-react/",
-  "name": "minecraft-react",
+  "homepage": "https://mirko-console-dir.github.io/minecraft-threejs/",
+  "name": "minecraft-threejs",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@react-three/cannon": "^3.1.2",
-    "@react-three/drei": "^7.12.5",
-    "@react-three/fiber": "^7.0.7",
-    "nanoid": "^3.1.20",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
+    "@react-three/cannon": "3.1.2",
+    "@react-three/drei": "7.12.5",
+    "@react-three/fiber": "7.0.7",
+    "nanoid": "3.1.20",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
     "react-scripts": "4.0.3",
-    "three": "^0.132.2",
-    "zustand": "^3.0.3"
+    "three": "0.132.2",
+    "zustand": "3.0.3"
   },
   "scripts": {
     "predeploy": "npm run build",
