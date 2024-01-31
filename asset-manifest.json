@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/minecraft-react/static/css/main.03d385f0.chunk.css",
-    "main.js": "/minecraft-react/static/js/main.5792caa3.chunk.js",
-    "main.js.map": "/minecraft-react/static/js/main.5792caa3.chunk.js.map",
-    "runtime-main.js": "/minecraft-react/static/js/runtime-main.c2a1c069.js",
-    "runtime-main.js.map": "/minecraft-react/static/js/runtime-main.c2a1c069.js.map",
-    "static/js/2.c1f4037c.chunk.js": "/minecraft-react/static/js/2.c1f4037c.chunk.js",
-    "static/js/2.c1f4037c.chunk.js.map": "/minecraft-react/static/js/2.c1f4037c.chunk.js.map",
-    "index.html": "/minecraft-react/index.html",
-    "static/css/main.03d385f0.chunk.css.map": "/minecraft-react/static/css/main.03d385f0.chunk.css.map",
-    "static/js/2.c1f4037c.chunk.js.LICENSE.txt": "/minecraft-react/static/js/2.c1f4037c.chunk.js.LICENSE.txt"
+    "main.css": "/minecraft-threejs/static/css/main.081badad.chunk.css",
+    "main.js": "/minecraft-threejs/static/js/main.f94e9034.chunk.js",
+    "main.js.map": "/minecraft-threejs/static/js/main.f94e9034.chunk.js.map",
+    "runtime-main.js": "/minecraft-threejs/static/js/runtime-main.a591f2b4.js",
+    "runtime-main.js.map": "/minecraft-threejs/static/js/runtime-main.a591f2b4.js.map",
+    "static/js/2.b7b0aed2.chunk.js": "/minecraft-threejs/static/js/2.b7b0aed2.chunk.js",
+    "static/js/2.b7b0aed2.chunk.js.map": "/minecraft-threejs/static/js/2.b7b0aed2.chunk.js.map",
+    "index.html": "/minecraft-threejs/index.html",
+    "static/css/main.081badad.chunk.css.map": "/minecraft-threejs/static/css/main.081badad.chunk.css.map",
+    "static/js/2.b7b0aed2.chunk.js.LICENSE.txt": "/minecraft-threejs/static/js/2.b7b0aed2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c2a1c069.js",
-    "static/js/2.c1f4037c.chunk.js",
-    "static/css/main.03d385f0.chunk.css",
-    "static/js/main.5792caa3.chunk.js"
+    "static/js/runtime-main.a591f2b4.js",
+    "static/js/2.b7b0aed2.chunk.js",
+    "static/css/main.081badad.chunk.css",
+    "static/js/main.f94e9034.chunk.js"
   ]
 }
