@@ -1,7 +1,7 @@
 import React from "react"
 import { useStore } from "../hooks/useStore"
 
-export const Menu = ({ toggleModalCommands }) => {
+const Menu = ({ toggleModalCommands }) => {
 	const [saveWorld, resetWorld] = useStore((state) => [state.saveWorld, state.resetWorld])
 
 	return (
@@ -15,6 +15,8 @@ export const Menu = ({ toggleModalCommands }) => {
 			<button
 				onClick={toggleModalCommands}
 			>Show Commands</button>
+			<p>Keep press ESC to show cursor</p>
 		</div>
 	)
 }
+export default React.memo(Menu)

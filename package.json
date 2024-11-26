@@ -7,6 +7,7 @@
     "@react-three/cannon": "3.1.2",
     "@react-three/drei": "7.12.5",
     "@react-three/fiber": "7.0.7",
+    "embla-carousel-react": "^8.5.1",
     "nanoid": "3.1.20",
     "react": "17.0.2",
     "react-dom": "17.0.2",
@@ -38,6 +39,7 @@
     ]
   },
   "devDependencies": {
+    "ajv": "^8.17.1",
     "gh-pages": "^6.1.1"
   }
 }
