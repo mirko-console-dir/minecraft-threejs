@@ -1,20 +1,31 @@
 {
   "files": {
-    "main.css": "/minecraft-threejs/static/css/main.081badad.chunk.css",
-    "main.js": "/minecraft-threejs/static/js/main.f94e9034.chunk.js",
-    "main.js.map": "/minecraft-threejs/static/js/main.f94e9034.chunk.js.map",
-    "runtime-main.js": "/minecraft-threejs/static/js/runtime-main.a591f2b4.js",
-    "runtime-main.js.map": "/minecraft-threejs/static/js/runtime-main.a591f2b4.js.map",
-    "static/js/2.b7b0aed2.chunk.js": "/minecraft-threejs/static/js/2.b7b0aed2.chunk.js",
-    "static/js/2.b7b0aed2.chunk.js.map": "/minecraft-threejs/static/js/2.b7b0aed2.chunk.js.map",
+    "main.css": "/minecraft-threejs/static/css/main.60aa14c9.chunk.css",
+    "main.js": "/minecraft-threejs/static/js/main.ec45fda6.chunk.js",
+    "main.js.map": "/minecraft-threejs/static/js/main.ec45fda6.chunk.js.map",
+    "runtime-main.js": "/minecraft-threejs/static/js/runtime-main.9b7e8883.js",
+    "runtime-main.js.map": "/minecraft-threejs/static/js/runtime-main.9b7e8883.js.map",
+    "static/js/2.be0513b3.chunk.js": "/minecraft-threejs/static/js/2.be0513b3.chunk.js",
+    "static/js/2.be0513b3.chunk.js.map": "/minecraft-threejs/static/js/2.be0513b3.chunk.js.map",
     "index.html": "/minecraft-threejs/index.html",
-    "static/css/main.081badad.chunk.css.map": "/minecraft-threejs/static/css/main.081badad.chunk.css.map",
-    "static/js/2.b7b0aed2.chunk.js.LICENSE.txt": "/minecraft-threejs/static/js/2.b7b0aed2.chunk.js.LICENSE.txt"
+    "static/css/main.60aa14c9.chunk.css.map": "/minecraft-threejs/static/css/main.60aa14c9.chunk.css.map",
+    "static/js/2.be0513b3.chunk.js.LICENSE.txt": "/minecraft-threejs/static/js/2.be0513b3.chunk.js.LICENSE.txt",
+    "static/media/12345.3362ed20.webp": "/minecraft-threejs/static/media/12345.3362ed20.webp",
+    "static/media/COMBO.f8836cad.webp": "/minecraft-threejs/static/media/COMBO.f8836cad.webp",
+    "static/media/MOUSE.40d0b089.webp": "/minecraft-threejs/static/media/MOUSE.40d0b089.webp",
+    "static/media/MOUSECLICK.ba1f7b6e.webp": "/minecraft-threejs/static/media/MOUSECLICK.ba1f7b6e.webp",
+    "static/media/SPACEBAR.0281f4eb.webp": "/minecraft-threejs/static/media/SPACEBAR.0281f4eb.webp",
+    "static/media/WASD.cea22c89.webp": "/minecraft-threejs/static/media/WASD.cea22c89.webp",
+    "static/media/bg_block.ceefc90e.webp": "/minecraft-threejs/static/media/bg_block.ceefc90e.webp",
+    "static/media/bg_jump.6f630fd4.webp": "/minecraft-threejs/static/media/bg_jump.6f630fd4.webp",
+    "static/media/bg_movement.404bac66.webp": "/minecraft-threejs/static/media/bg_movement.404bac66.webp",
+    "static/media/hardware_acceleration.47410bfa.png": "/minecraft-threejs/static/media/hardware_acceleration.47410bfa.png",
+    "static/media/screen_chrome_settings.3943ce0b.png": "/minecraft-threejs/static/media/screen_chrome_settings.3943ce0b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.a591f2b4.js",
-    "static/js/2.b7b0aed2.chunk.js",
-    "static/css/main.081badad.chunk.css",
-    "static/js/main.f94e9034.chunk.js"
+    "static/js/runtime-main.9b7e8883.js",
+    "static/js/2.be0513b3.chunk.js",
+    "static/css/main.60aa14c9.chunk.css",
+    "static/js/main.ec45fda6.chunk.js"
   ]
 }
