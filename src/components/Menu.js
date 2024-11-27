@@ -6,16 +6,22 @@ const Menu = ({ toggleModalCommands }) => {
 
 	return (
 		<div className="menu absolute" width="100%">
-			<button
+			<button className="pushable next__btn__pushable"
 				onClick={() => saveWorld()}
-			>Save</button>
-			<button
+			>
+				<span className="front next__btn__front btn__menu__text">Save</span>
+			</button>
+			<button className="pushable next__btn__pushable"
 				onClick={() => resetWorld()}
-			>Reset</button>
-			<button
+			>
+				<span className="front next__btn__front btn__menu__text">Reset</span>
+			</button>
+			<button className="pushable next__btn__pushable"
 				onClick={toggleModalCommands}
-			>Show Commands</button>
-			<p>Keep press ESC to show cursor</p>
+			>
+				<span className="front next__btn__front btn__menu__text">Show Commands</span>
+			</button>
+			<p className="cursor__msg">Press ESC to show cursor</p>
 		</div>
 	)
 }

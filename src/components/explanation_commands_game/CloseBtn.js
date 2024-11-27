@@ -2,8 +2,10 @@ import React from 'react'
 
 const CloseBtn = ({toggleModalCommands}) => {
   return (
-    <button className='modal_close_btn' onClick={toggleModalCommands}>
-        <h2>Close</h2>
+    <button className="pushable start__btn start__btn__pushable" onClick={toggleModalCommands}>
+      <span className="front start__btn__front">
+        Start
+      </span>
     </button>
   )
 }
